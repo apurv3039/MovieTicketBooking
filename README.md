@@ -4,3 +4,5 @@
 1) Ui For Movie Ticket Booking.<br>
 2) Showing theatre wise tickets in recyclerview.<br>
 3) Collapsing Toolbar with RecyclerView.<br>
+
+![example](screenshot.png)
